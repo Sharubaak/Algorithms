@@ -40,6 +40,7 @@ def merge(data, first, mid, last):
         merge_index += 1
 
 def read_input():
+    print("Sharubaa Kirubakaran 100744513 sorter")
     return list(map(int, input("Enter the numbers to be sorted, separated by spaces: ").split()))
 
 # Function to play a sound
